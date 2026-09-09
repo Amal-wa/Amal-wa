@@ -12,6 +12,28 @@ specializing this year in **CyberSecurity and Defense**. I work at the
 intersection of application security and machine learning — Zero Trust,
 policy-as-code authorization, and anomaly detection.
 
+### 🔨 Currently working on
+
+**Cloud Apps & GenAI Protection** — a 4-month project covering NG-SWG
+(next-generation secure web gateway), DLP (data loss prevention), threat
+protection, and GenAI security.
+
+### 🔭 What I focus on
+
+- **Zero Trust & policy-as-code** — API authorization with OPA/Rego, PKI/mTLS
+- **Backend security** — auth stacks (JWT/EdDSA, Argon2id, TOTP), PostgreSQL Row-Level Security for tenant isolation
+- **Applied ML for security** — anomaly detection and risk scoring
+
+### 📌 Selected projects
+
+- **ARGUS** — a Zero Trust API gateway (NIST SP 800-207). Built the OPA/Rego
+  authorization core, found and fixed a real *fail-open* flaw in the policy
+  engine, and calibrated Isolation Forest anomaly scores for usable risk
+  thresholds.
+- **TenderAI** — a multi-tenant B2B SaaS platform with a complete backend
+  security stack: RLS-based tenant isolation, HashiCorp Vault integration, and
+  hardened middleware (CSP/HSTS, dependency CVE remediation).
+
 ### 🛠️ Tech
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -24,17 +46,9 @@ policy-as-code authorization, and anomaly detection.
 ![Vault](https://img.shields.io/badge/HashiCorp%20Vault-000000?logo=vault&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
 
-### 🔭 What I focus on
+### 🌍 Languages
 
-- **Zero Trust & policy-as-code** — API authorization with OPA/Rego, PKI/mTLS
-- **Backend security** — auth stacks (JWT/EdDSA, Argon2id, TOTP), PostgreSQL RLS for tenant isolation
-- **Applied ML for security** — anomaly detection and risk scoring
-
-### 🔥 Streak
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Amal-wa&hide_border=true&theme=tokyonight" alt="streak" />
-</div>
+Arabic (native) · French (C2) · English (B2)
 
 ### 📫 Reach me
 
