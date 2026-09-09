@@ -24,20 +24,19 @@ policy-as-code authorization, and anomaly detection.
 ![Vault](https://img.shields.io/badge/HashiCorp%20Vault-000000?logo=vault&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
 
-### 📊 GitHub stats
+### 🔭 What I focus on
+
+- **Zero Trust & policy-as-code** — API authorization with OPA/Rego, PKI/mTLS
+- **Backend security** — auth stacks (JWT/EdDSA, Argon2id, TOTP), PostgreSQL RLS for tenant isolation
+- **Applied ML for security** — anomaly detection and risk scoring
+
+### 🔥 Streak
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Amal-wa&show_icons=true&hide_border=true&include_all_commits=true&theme=tokyonight" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amal-wa&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="top languages" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amal-wa&hide_border=true&theme=tokyonight" alt="streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Amal-wa&hide_border=true&theme=tokyo-night" alt="activity graph" width="90%" />
-
 </div>
 
 ### 📫 Reach me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amal-ben-khalifa/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 [![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white)](mailto:amel.benkhalifa@supcom.tn)
