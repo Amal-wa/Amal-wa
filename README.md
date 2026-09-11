@@ -46,10 +46,6 @@ protection, and GenAI security.
 ![Vault](https://img.shields.io/badge/HashiCorp%20Vault-000000?logo=vault&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
 
-### 🌍 Languages
-
-Arabic (native) · French (C2) · English (B2)
-
 ### 📫 Reach me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amal-ben-khalifa/)
