@@ -1,52 +1,55 @@
-<div align="center">
+# Amel Ben Khalifa
 
-<!-- En-tête animé : édite le texte après lines= (séparateur ; entre chaque ligne) -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=Cybersecurity+and+backend+engineering;Zero+Trust,+policy-as-code,+anomaly+detection;Sup'Com+student+in+CyberSecurity+and+Defense" alt="typing header" />
+**Cybersecurity engineering student at Sup'COM Tunis, looking for a 2027 end-of-studies internship
+(PFE) in cybersecurity, in Tunisia or abroad.**
 
-</div>
+*Étudiante ingénieure en cybersécurité à Sup'COM, je recherche un stage PFE 2027 en cybersécurité,
+en Tunisie ou à l'étranger.*
 
-## Hi, I'm Amel 👋
+Third-year ICT engineering student (graduating 2027), CyberSecurity and Defense track. I like
+building security into a system end to end: access control decided by policies rather than by a
+token alone, anomaly detection, strong authentication and strict tenant isolation.
 
-Cybersecurity & backend engineering student at **Sup'Com (Tunis)**,
-specializing this year in **CyberSecurity and Defense**. I work at the
-intersection of application security and machine learning — Zero Trust,
-policy-as-code authorization, and anomaly detection.
+## Focus areas
 
-### 🔨 Currently working on
+- Network security
+- Zero Trust architecture
+- Intrusion detection and SOC operations
+- Cloud and GenAI security
+- Linux
+- Blockchain
 
-**Cloud Apps & GenAI Protection** — a 4-month project covering NG-SWG
-(next-generation secure web gateway), DLP (data loss prevention), threat
-protection, and GenAI security.
+## Selected projects
 
-### 🔭 What I focus on
+| Project | Highlights |
+|---|---|
+| **[ARGUS](https://github.com/Amal-wa/ARGUS)**: Zero Trust API gateway<br/>*Internship project, Pwn & Patch* | Every request is authenticated, scored by an Isolation Forest anomaly model and authorized by OPA/Rego policies. Step-up MFA, mTLS and a hash-chained audit log. 276 gateway tests and 128 policy tests passing. |
+| **[TenderAI](https://github.com/Amal-wa/tenderai-platform)**: multi-tenant B2B SaaS<br/>*School project, in progress* | Tenant isolation enforced by PostgreSQL Row-Level Security, Ed25519 JWTs, TOTP 2FA, Argon2id, SHA-256 audit chain. |
+| **Cloud Apps & GenAI Protection**<br/>*4-month project, ongoing* | NG-SWG (next-generation secure web gateway), DLP, threat protection and GenAI security. No public code. |
 
-- **Zero Trust & policy-as-code** — API authorization with OPA/Rego, PKI/mTLS
-- **Backend security** — auth stacks (JWT/EdDSA, Argon2id, TOTP), PostgreSQL Row-Level Security for tenant isolation
-- **Applied ML for security** — anomaly detection and risk scoring
+<!--
+Projects to add once they are published (fill in, then move into the table above):
 
-### 📌 Selected projects
+| **[SOC de poche](https://github.com/Amal-wa/[À COMPLÉTER])**: pocket SOC | [À COMPLÉTER : Wi-Fi, IDS, Linux, compliance, blockchain — one line of impact] |
+| **[Cybersecurity skills map](https://github.com/Amal-wa/[À COMPLÉTER])** | [À COMPLÉTER : prerequisite graph, lab-based evidence, smart contract — one line of impact] |
+| **[health-records](https://github.com/Amal-wa/projet-blockchain)** (currently private) | [À COMPLÉTER : only if the repository is made public] |
+-->
 
-- **ARGUS** — a Zero Trust API gateway (NIST SP 800-207). Built the OPA/Rego
-  authorization core, found and fixed a real *fail-open* flaw in the policy
-  engine, and calibrated Isolation Forest anomaly scores for usable risk
-  thresholds.
-- **TenderAI** — a multi-tenant B2B SaaS platform with a complete backend
-  security stack: RLS-based tenant isolation, HashiCorp Vault integration, and
-  hardened middleware (CSP/HSTS, dependency CVE remediation).
+## Certifications in preparation
 
-### 🛠️ Tech
+- Cisco Certified CyberOps Associate
+- Huawei HCIA-Security
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![OPA](https://img.shields.io/badge/OPA%2FRego-7D9199?logo=openpolicyagent&logoColor=white)
-![Vault](https://img.shields.io/badge/HashiCorp%20Vault-000000?logo=vault&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
+## Tools and technologies
 
-### 📫 Reach me
+Python · TypeScript · Java · FastAPI · React / Next.js · PostgreSQL · Redis · Docker ·
+OPA/Rego · HashiCorp Vault · scikit-learn · Linux
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amal-ben-khalifa/)
-[![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white)](mailto:amel.benkhalifa@supcom.tn)
+## Languages
+
+Arabic ([À COMPLÉTER : niveau]) · French (C2) · English ([À COMPLÉTER : niveau])
+
+## Contact
+
+- LinkedIn: [linkedin.com/in/amal-ben-khalifa](https://www.linkedin.com/in/amal-ben-khalifa/)
+- Email: [À COMPLÉTER : adresse email]
